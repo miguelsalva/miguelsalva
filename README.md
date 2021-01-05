@@ -7,7 +7,7 @@
   
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@miguelsalva/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@miguelsalva/1" alt="Recent Article 1">
   
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@miguelsalva/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@miguelsalva/2" alt="Recent Article 2">
+<!--<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@miguelsalva/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@miguelsalva/2" alt="Recent Article 2">-->
 <!--
 **miguelsalva/miguelsalva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
