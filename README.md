@@ -4,6 +4,10 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=miguelsalva&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@miguelsalva/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@miguelsalva/0" alt="Recent Article 0">
+  
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@miguelsalva/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@miguelsalva/1" alt="Recent Article 1">
+  
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@miguelsalva/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@miguelsalva/2" alt="Recent Article 2">
 <!--
 **miguelsalva/miguelsalva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
